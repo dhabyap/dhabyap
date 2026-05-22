@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Dhaby+Anggika+Putra;💻+Web+Developer+|+PHP+Specialist;🚀+Building+scalable+backend+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Dhaby+Anggika+Putra;Web+Developer+|+PHP+Specialist;Building+scalable+backend+solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -192,5 +192,5 @@ Bachelor of Informatics Engineering – GPA 3.21/4.00
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
