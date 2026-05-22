@@ -119,7 +119,7 @@ Frontend implementation for the Zaku financial management application built with
 
 **Tech Stack:** Blade, JavaScript
 [View Repository](https://github.com/dhabyap/zaku-front-end)
-
+[View Website](https://zaku.abysoft.my.id)
 ---
 
 ### 📊 **Bot Trading**
