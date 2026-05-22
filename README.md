@@ -114,12 +114,14 @@ REST API for analyzing Clash of Clans player data using external game APIs. Prov
 
 ### 🎨 **Zaku Frontend**
 *Repository: zaku-front-end*
-[View Website](https://zaku.abysoft.my.id)
 
 Frontend implementation for the Zaku financial management application built with Blade templating.
 
 **Tech Stack:** Blade, JavaScript
 [View Repository](https://github.com/dhabyap/zaku-front-end)
+
+**Live:** [https://zaku.abysoft.my.id](https://zaku.abysoft.my.id)
+
 ---
 
 ### 📊 **Bot Trading**
